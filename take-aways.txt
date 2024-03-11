@@ -1,5 +1,4 @@
 Course List as Branch Names
-
 001. Introduction-to-Data-Science-in-Python
 002. Data-Manipulation-with-pandas
 003. Python-Data-Science-Toolbox-Part-1
@@ -17,187 +16,6 @@ Course List as Branch Names
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 201. Introduction-to-Relational-Databases-in-SQL
 202. Database-Design
 203. Creating-PostgreSQL-Databases
@@ -207,3 +25,9 @@ Course List as Branch Names
 207. Joining-Data-in-SQL
 208. Data-Manipulation-in-SQL
 209. PostgreSQL-Summary-Stats-and-Window-Functions
+
+
+301. Introduction-to-Statistics-in-Spreadsheets
+302. Data-Analysis-in-Spreadsheets
+303. Spreadsheets-Foundations
+304. Introduction-to-Spreadsheets
