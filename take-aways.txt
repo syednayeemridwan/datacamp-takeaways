@@ -10,186 +10,8 @@ Course List as Branch Names
 008. Regular-Expressions-in-Python
 009. Web-Scraping-in-Python
 010. Writing-Functions-in-Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+011. Software-Engineering-for-Data-Scientists-in-Python
+012. Introduction-to-Regression-with-statsmodels-in-Python
 
 
 
@@ -216,3 +38,33 @@ Course List as Branch Names
 216. Introduction-to-SQL-Server
 217. Intermediate-SQL-Server
 218. Time-Series-Analysis-in-SQL-Server
+219. Functions-for-Manipulating-Data-in-SQL-Server
+220. Transactions-and-Error-Handling-in-SQL-Server
+221. Writing-Functions-and-Stored-Procedures-in-SQL-Server
+222. Building-and-Optimizing-Triggers-in-SQL-Server
+223. Improving-Query-Performance-in-SQL-Server
+224. Hierarchical-and-Recursive-Queries-in-SQL-Server
+225. Cleaning-Data-in-SQL-Server-Databases
+226. Cleaning-Data-in-PostgreSQL-Databases
+227. Transactions-and-Error-Handling-in-PostgreSQL
+228. Introduction-to-Oracle-SQL
+
+251. Introduction-to-Power-BI
+252. Introduction-to-DAX-in-Power-BI
+253. Data-Visualization-in-Power-BI
+
+
+
+301. Introduction-to-Statistics-in-Spreadsheets
+302. Data-Analysis-in-Spreadsheets
+303. Spreadsheets-Foundations
+304. Introduction-to-Spreadsheets
+305. Intermediate-Spreadsheets
+306. Pivot-Tables-in-Spreadsheets
+307. Data-Visualization-in-Spreadsheets
+308. Conditional-Formatting-in-Spreadsheets
+309. Error-and-Uncertainty-in-Spreadsheets
+310. Marketing-Analytics-in-Spreadsheets
+311. Financial-Analytics-in-Spreadsheets
+312. Financial-Modeling-in-Spreadsheets
+
