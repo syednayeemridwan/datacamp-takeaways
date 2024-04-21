@@ -10,186 +10,10 @@ Course List as Branch Names
 008. Regular-Expressions-in-Python
 009. Web-Scraping-in-Python
 010. Writing-Functions-in-Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+011. Software-Engineering-for-Data-Scientists-in-Python
+012. Introduction-to-Regression-with-statsmodels-in-Python
+013. Intermediate-Regression-with-statsmodels-in-Python
+014. Sampling-in-Python
 
 
 
@@ -227,9 +51,24 @@ Course List as Branch Names
 227. Transactions-and-Error-Handling-in-PostgreSQL
 228. Introduction-to-Oracle-SQL
 
+251. Introduction-to-Power-BI
+252. Introduction-to-DAX-in-Power-BI
+253. Data-Visualization-in-Power-BI
 
 
 
+301. Introduction-to-Statistics-in-Spreadsheets
+302. Data-Analysis-in-Spreadsheets
+303. Spreadsheets-Foundations
+304. Introduction-to-Spreadsheets
+305. Intermediate-Spreadsheets
+306. Pivot-Tables-in-Spreadsheets
+307. Data-Visualization-in-Spreadsheets
+308. Conditional-Formatting-in-Spreadsheets
+309. Error-and-Uncertainty-in-Spreadsheets
+310. Marketing-Analytics-in-Spreadsheets
+311. Financial-Analytics-in-Spreadsheets
+312. Financial-Modeling-in-Spreadsheets
 
 
 
