@@ -14,6 +14,7 @@ Course List as Branch Names
 012. Introduction-to-Regression-with-statsmodels-in-Python
 013. Intermediate-Regression-with-statsmodels-in-Python
 014. Sampling-in-Python
+015. Hypothesis-Testing-in-Python
 
 
 
@@ -54,6 +55,7 @@ Course List as Branch Names
 251. Introduction-to-Power-BI
 252. Introduction-to-DAX-in-Power-BI
 253. Data-Visualization-in-Power-BI
+254. Data-Preparation-in-Power-BI
 
 
 
@@ -74,20 +76,3 @@ Course List as Branch Names
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-251. Introduction-to-Power-BI
-252. Introduction-to-DAX-in-Power-BI
-253. Data-Visualization-in-Power-BI
-254. Data-Preparation-in-Power-BI
